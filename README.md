@@ -1,12 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-jibon&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-jibon" /> </p>
-
-<div align="center">
-  <img width="180" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" >
-  </div>
   
 
 <h1 align="center">Hi 👋, I'm Zahid Hossain Jibon</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
+
 
 
 - 🔭 I’m currently working on **#python #frontend-development**
@@ -18,6 +15,7 @@
 - 📫 How to reach me **zahid397@gmail.com**
 
 - ⚡ Fun fact **I think I'm creative**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
