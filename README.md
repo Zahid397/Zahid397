@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="180" src="images/programer.svg" alt="zahid-jibon" />
+  <img width="280" src="images/programer.svg" alt="zahid-jibon" />
 </p>
  
 
