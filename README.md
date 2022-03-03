@@ -1,7 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-jibon&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-jibon" /> </p>
-  
+
+ 
+ 
 
 <h1 align="center">Hi 👋, I'm Zahid Hossain Jibon</h1>
+<p align="center">
+  <img width="180" src="images/programer.svg" alt="zahid-jibon" />
+</p>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 
