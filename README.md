@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **#python #frontend-development**
 
-- 📫 How to reach me **zahid397@gmail.com**
+- 📫 How to reach me **zahid10397@gmail.com**
 
 - ⚡ Fun fact **I think I'm creative**
 
