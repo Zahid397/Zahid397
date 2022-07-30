@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zahid-hossain-95a1121a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahid-hossain-95a1121a5/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100005698484686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100005698484686" height="30" width="40" /></a>
-<a href="https://instagram.com/xah_zahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xah_zahid" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_z_a_h_i_d__j_i_b_o_n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xah_zahid" height="30" width="40" /></a>
 </p>
 
 
